@@ -20,5 +20,8 @@
   "homepage": "https://github.com/rtgamingwdt/mello-utils#readme",
   "devDependencies": {
     "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "mello-utils": "^1.0.13"
   }
 }

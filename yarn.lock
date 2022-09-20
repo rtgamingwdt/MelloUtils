@@ -2,15 +2,10 @@
 # yarn lockfile v1
 
 
-"@types/node@^18.7.18":
-  version "18.7.18"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.18.tgz#633184f55c322e4fb08612307c274ee6d5ed3154"
-  integrity sha512-m+6nTEOadJZuTPkKR/SYK3A2d7FZrgElol9UP1Kae90VVU4a6mxnPuLiIW1m4Cq4gZ/nWb9GrdVXJCoCazDAbg==
-
-mello-utils@^1.0.9:
-  version "1.0.9"
-  resolved "https://registry.yarnpkg.com/mello-utils/-/mello-utils-1.0.9.tgz#7db8059679c9eacca089cf3430667cbcea2d1b6a"
-  integrity sha512-PgJij9JMTMJH7pyCJ6HYqBBmI5eh2fAvuARYYKJCpJQG3Kdv9COrVatj4p2W0++AuiuT8JJpaAvDa5IV1VeoOg==
+mello-utils@^1.0.13:
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/mello-utils/-/mello-utils-1.0.13.tgz#7c3b0ef291e2238884abea7627c7e530a3b0f432"
+  integrity sha512-08RK3j63ISSG/Pxbb49al4r8sXRZ/Wdn15u4VQPDtc+FPS2mJ48pCL9t7uZ5RICD4ecGhVN8/uaHw+kbEhxGfg==
 
 typescript@^4.8.3:
   version "4.8.3"

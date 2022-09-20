@@ -1,0 +1,1 @@
+module.exports.TextFormat = require("./structure/TextFormat");

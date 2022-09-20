@@ -1,0 +1,24 @@
+{
+  "name": "mello-utils",
+  "version": "1.0.13",
+  "description": "A multipurpose NodeJS package",
+  "main": "src/Main.js",
+  "types": "src/Main.d.ts",
+  "scripts": {
+    "test": "ts-node test/Test.ts",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtgamingwdt/mello-utils.git"
+  },
+  "author": "rtgamingwdt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rtgamingwdt/mello-utils/issues"
+  },
+  "homepage": "https://github.com/rtgamingwdt/mello-utils#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
